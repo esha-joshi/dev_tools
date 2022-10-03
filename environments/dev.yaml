@@ -1,0 +1,13 @@
+name: dev
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - xorg-libxau
+  - git
+  - snakemake
+  - nodejs
+  - pre-commit
+  - conda-verify
+  - vim
+  - cookiecutter

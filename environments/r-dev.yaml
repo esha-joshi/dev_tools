@@ -1,0 +1,23 @@
+name: r-dev
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-ggplot2
+  - r-rcolorbrewer
+  - pre-commit
+  - nodejs
+  - git
+  - python>=3.10
+  - r-docopt
+  - r-styler
+  - r-knitr
+  - r-usethis
+  - r-roxygen2
+  - r-foreign
+  - r-haven
+  - r-kableExtra
+  - r-rmarkdown
+  - r-stringdist
+  - r-git2r
+  - r-lintr

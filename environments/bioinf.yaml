@@ -1,0 +1,16 @@
+name: bioinfo
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - xorg-libxau
+  - git
+  - snakemake
+  - nodejs
+  - pre-commit
+  - cookiecutter
+  - bcftools
+  - samtools
+  - gatk4
+  - vcftools
+  - bwa
